@@ -1,7 +1,7 @@
 # Calcolo delle Molteplicità Algebrica e Geometrica degli Autovalori
 
 ## 📘 Descrizione
-
+Progeto sviluppato come parte integrante del corso di Calcolo Numerico al Secondo Anno di Informatica presso l'Uniersità degli Studi di Padova
 Questo progetto implementa in MATLAB un insieme di funzioni per studiare la **diagonalizzabilità** di una matrice quadrata reale o complessa, calcolando:
 
 - La **molteplicità geometrica** di un autovalore.
