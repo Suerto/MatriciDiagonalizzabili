@@ -2,6 +2,7 @@
 
 # Premessa
 Progetto sviluppato come parte integrante del corso di Calcolo Numerico al Secondo Anno di Informatica presso l'Università degli Studi di Padova
+Valutazione: 4 punti / 4 punti
 
 ## 📘 Descrizione
 Questo progetto implementa in MATLAB un insieme di funzioni per studiare la **diagonalizzabilità** di una matrice quadrata reale o complessa, calcolando:
